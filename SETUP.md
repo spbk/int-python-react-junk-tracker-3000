@@ -45,7 +45,11 @@ You should now be able to access the Flask API at `http://localhost:5000/vehicle
 
 #### React Frontend
 
-Use `npm` to start the React development server directory:
+First install all NPM packages:
+
+    npm install
+    
+Then start the React development server directory:
 
     npm start
 
